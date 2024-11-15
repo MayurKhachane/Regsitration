@@ -1,2 +1,2 @@
-# Regsitration
+# Student Grade System
 Registration
